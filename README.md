@@ -9,4 +9,6 @@
 每當有"新訊息"且"傳訊者在語音頻道"時，
 新史丹利就會滑進語音頻道，
 然後用FB幹片常見的聲音念出訊息。
+
+
 ![image](https://github.com/user-attachments/assets/ed07c147-a519-47f4-b126-1a0b1f452e37)
